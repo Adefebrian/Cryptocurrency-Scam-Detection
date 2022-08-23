@@ -1,0 +1,18 @@
+1. git init 
+2. git add . 
+3. git commit -m "Pengerjaan task program Kampus Merdeka di Alta"
+4. git branch -M main
+5. git remote add origin https://github.com/Adefebrian/flutter_Ade-Febrian.git
+6. git push -u origin main
+7. git checkout -b development
+8. git push --set-upstream origin development
+9. git checkout -b feature
+10. git push --set-upstream origin featureA
+11. git checkout -b featureB
+12. git push --set-upstream origin featureB
+13. git commit add . 
+14. git git commit -m "Menambahkan file command.txt kedalam folder praktikum"
+15. git push origin main 
+16. git pull 
+17. git stash 
+18. git merge development
